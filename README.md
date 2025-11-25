@@ -40,9 +40,17 @@ Enter your birthday (MM/DD): 01/15
 
 Have ideas for improvement? Want to add more features? Pull requests are welcome! Just don't blame the stars if your code doesn't work! 😉
 
-## 📖 License
 
-This project is licensed under the MIT License—feel free to use and modify it as you wish (as long as you don’t break the cosmic balance)! 🌌✨
+## 🚫 Rule: Ethical Use Policy
+
+Let’s keep it cosmic and classy! This repository is all about fun and learning—**so please don't go gambling on your zodiac luck!** 🎰✨ 
+
+ZodiacWise is here for laughs and entertainment, not for making life-altering decisions. Remember, astrology is like a horoscope-flavored cookie: tasty, 
+but not a substitute for common sense! So, use this tool responsibly and respect others’ beliefs. 
+
+Stay stellar and keep it ethical! 🌌💫
+
+
 
 ## ✨ Join the Astro Journey!
 
