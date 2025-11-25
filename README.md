@@ -33,7 +33,7 @@ Ever wondered if your zodiac sign really influences your day-to-day decisions? �
 
 ```plaintext
 Enter your birthday (MM/DD): 01/15
-🎉 Your zodiac sign is: Aries! 
+🎉 Your zodiac sign is: Capricorn
 🔥 Bold, ambitious, and a natural leader.
 ```
 
